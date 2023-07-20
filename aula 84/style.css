@@ -1,0 +1,28 @@
+#submitButton
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input
+{
+    margin: 10px;
+}
+
+#displayNameWithCommas
+{
+    border: 1px solid goldenrod;
+    padding: 10px;
+    background: lightgreen;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#displayNameWithoutCommas
+{
+    border: 1px solid yellow;
+    padding: 10px;
+    background: lightyellow;
+    border-radius: 10px;
+    width: 50%;  
+}
